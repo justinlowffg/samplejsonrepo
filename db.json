@@ -1,20 +1,26 @@
-{
-  "results": [
-    {
-      "questionid": 1,
-      "score": 8
-    },
-    {
-      "questionid": 2,
-      "score": 7
-    },
-    {
-      "questionid": 3,
-      "score": 3
-    },
-    {
-      "questionid": 4,
-      "score": 9
-    }
-  ]
-}
+[
+  {
+    "id": "744",
+    "question1": 8,
+    "question2": 6,
+    "timestamp": "2018-04-10 15:44:23"
+  },
+  {
+    "id": "909",
+    "question1": 2,
+    "question2": 4,
+    "timestamp": "1999-09-22 15:44:23"
+  },
+  {
+    "id": "746",
+    "question1": 10,
+    "question2": 9,
+    "timestamp": "2018-03-12 13:00:19"
+  },
+  {
+    "id": "745",
+    "question1": 6,
+    "question2": 2,
+    "timestamp": "2018-04-07 12:21:09"
+  }
+]
